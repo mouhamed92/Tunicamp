@@ -1,0 +1,10 @@
+com\example\todoapp\controllers\TodoController.class
+com\example\todoapp\models\Todo.class
+com\example\todoapp\models\Publication.class
+com\example\todoapp\TodoappApplication.class
+com\example\todoapp\controllers\PublicationController.class
+com\example\todoapp\repositories\PublicationRepository.class
+com\example\todoapp\controllers\UserController.class
+com\example\todoapp\repositories\UserRepository.class
+com\example\todoapp\repositories\TodoRepository.class
+com\example\todoapp\models\User.class
